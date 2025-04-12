@@ -1,4 +1,4 @@
-## 👋 Hi, I'm @FlaviusMarian27
+## 👋 Hi, I'm Flavius 
 
 🎓 Student at Politehnica University of Timișoara  
 🏫 Faculty of Automation and Computer Engineering
