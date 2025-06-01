@@ -13,14 +13,9 @@ I love exploring new technologies and continuously learning to enhance my skills
 
 ---
 
-### 🛠️ Skills & Interests
+## 🛠️ Skills & Interests
 
-- 💻 Programming Languages: `C`, `C++`, `Java`, `SQL`, `Python`, `HTML`, `CSS`, `JavaScript`, `Bash`
-- 🔌 Focus Areas: Embedded systems, microcontrollers, hardware-software integration
-- ⚙️ Tools & Platforms: Arduino, Linux, Git, Shell Scripting
-
-#### 🔧 Technologies I Use:
-
+### 💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
@@ -30,9 +25,15 @@ I love exploring new technologies and continuously learning to enhance my skills
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+---
+
+### ⚙️ Tools & Platforms  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
+
 
 ---
 
