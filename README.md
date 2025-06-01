@@ -35,7 +35,7 @@ I love exploring new technologies and continuously learning to enhance my skills
 
 I'm currently planning to learn and explore:
 
-<img src="https://skillicons.dev/icons?i=rust,cs,go" />
+<img src="https://skillicons.dev/icons?i=rust,cs,fs,go" />
 
 ---
 
