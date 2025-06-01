@@ -16,7 +16,7 @@ I love exploring new technologies and continuously learning to enhance my skills
 ## 🛠️ Skills & Interests
 
 ### 💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,postgresql,html,css,js,bash" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,mongodb,html,css,js,bash" />
 
 ---
 
@@ -35,9 +35,7 @@ I love exploring new technologies and continuously learning to enhance my skills
 
 I'm currently planning to learn and explore:
 
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=rust,cs,go" />
 
 ---
 
