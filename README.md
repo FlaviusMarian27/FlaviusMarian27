@@ -16,7 +16,8 @@ I love exploring new technologies and continuously learning to enhance my skills
 ## 🛠️ Skills & Interests
 
 ### 💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,postgres,mongodb,nasm,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,postgres,mongodb,html,css,js" />
+<img src="https://img.shields.io/badge/Assembly-%232EAD33.svg?style=for-the-badge&logo=assembly&logoColor=white" height="50px" />
 
 ---
 
