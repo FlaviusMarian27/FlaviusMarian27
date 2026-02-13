@@ -29,7 +29,7 @@ My development journey is focused on bridging the gap between high-level softwar
 | Project Name | Year | Languages & Tech | Repository Link |
 | :--- | :---: | :--- | :--- |
 | **TicTacToe SFML** | 2026 | `C++`, `SFML` | [🔗 View Repo](https://github.com/FlaviusMarian27/TicTacToe) |
-| **Exploding Kittens CLI** | 2025 | `C` | [🔗 View Repo](https://github.com/FlaviusMarian27/ExplodingKittens) |
+| **Exploding Kittens Ncurses** | 2025 | `C` | [🔗 View Repo](https://github.com/FlaviusMarian27/ExplodingKittens) |
 | **8086 Microprocessor System** | 2025 | `Assembly (x86)` | [🔗 View Repo](https://github.com/FlaviusMarian27/Microsistem-cu-microprocesor-8086) |
 | **Gym Manager Web App** | 2025 | `Node.js`, `MongoDB`, `JS` | [🔗 View Repo](https://github.com/FlaviusMarian27/GymManagerWeb) |
 | **SystemC ALU Modules** | 2025 | `C++`, `SystemC` | [🔗 View Repo](https://github.com/FlaviusMarian27/SystemC-ALU-Modules) |
