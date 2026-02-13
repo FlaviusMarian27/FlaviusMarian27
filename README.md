@@ -62,8 +62,6 @@ I am constantly exploring the evolving tech landscape, focusing on the synergy b
 
 ---
 
----
-
 ### 📘 Future Learning Plan
 
 I'm currently planning to learn and explore:
