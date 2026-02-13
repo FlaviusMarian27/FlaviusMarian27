@@ -6,9 +6,7 @@
 
 ---
 
-### 💡 About Me
-
-## 🔍 Technical Deep Dive
+### 🔍 Technical Deep Dive
 
 My development journey is focused on bridging the gap between high-level software and low-level hardware. Here is a breakdown of my core areas of expertise:
 
@@ -51,11 +49,18 @@ My development journey is focused on bridging the gap between high-level softwar
 ### ⚙️ Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=linux,git,bash" />
 
-### 🚀 What I'm Working On
+### 🎯 Current Interests & Focus Areas
 
-- Designing and implementing embedded applications  
-- Writing low-level code to interface with hardware components  
-- Building smart systems that combine software with real-world hardware
+I am constantly exploring the evolving tech landscape, focusing on the synergy between hardware, low-level software, and connectivity:
+
+* **🚗 Automotive Systems:** Fascinated by ECU development, real-time operating systems (RTOS), and autonomous driving technologies.
+* **🌐 Networking:** Exploring network protocols, socket programming, and infrastructure security to build reliable distributed systems.
+* **💻 Operating Systems:** Deepening my knowledge of kernel architecture, memory management, and process scheduling (Linux/Unix).
+* **🛡️ Cybersecurity:** Focused on hardware security, secure coding practices, and protecting embedded devices from vulnerabilities.
+* **☁️ Cloud & AI:** Interested in scaling applications and deploying efficient TinyML models on edge hardware.
+* **📱 Web & Mobile:** Building modern, responsive applications that provide seamless user experiences across platforms.
+
+---
 
 ---
 
