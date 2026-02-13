@@ -39,15 +39,14 @@ I'm currently planning to learn and explore:
 
 ---
 
-## 📫 Contact
+### 📩 Contact & Socials
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianflavius27@yahoo.com)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavius.marian@student.upt.ro)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavius-andrei-marian/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlaviusMarian27)
+| Type | Platform | Address |
+| :--- | :--- | :--- |
+| 🎓 **Academic** | Email | [flavius.marian@student.upt.ro](mailto:flavius.marian@student.upt.ro) |
+| 🏠 **Personal** | Email | [marianflavius27@yahoo.com](mailto:marianflavius27@yahoo.com) |
+| 💼 **Professional** | LinkedIn | [in/flavius-andrei-marian](https://www.linkedin.com/in/flavius-andrei-marian/) |
+| 💻 **Code** | GitHub | [@FlaviusMarian27](https://github.com/FlaviusMarian27) |
 
 
 
