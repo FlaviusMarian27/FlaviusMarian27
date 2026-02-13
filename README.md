@@ -20,7 +20,7 @@ My development journey is focused on bridging the gap between high-level softwar
     With the **Gym Manager** project, I’ve implemented a complete CRUD system using **Node.js** and **MongoDB**. This project demonstrates my ability to design scalable database schemas and handle asynchronous backend logic while maintaining a clean user interface.
 
 * **🎮 Game Logic & GUI**
-    Developing **Exploding Kittens** (CLI) and **TicTacToe** (SFML) allowed me to refine my **Object-Oriented Programming (OOP)** skills. These projects showcase my ability to implement complex game rules and real-time graphics rendering using **C++**.
+    Developing **Exploding Kittens** (Ncurses) and **TicTacToe** (SFML) allowed me to refine my **Object-Oriented Programming (OOP)** skills. These projects showcase my ability to implement complex game rules and real-time graphics rendering using **C++**.
 
 ---
 
