@@ -16,7 +16,7 @@ I love exploring new technologies and continuously learning to enhance my skills
 ## 🛠️ Skills & Interests
 
 ### 💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,mongodb,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,postgres,mongodb,asm,html,css,js" />
 
 ---
 
