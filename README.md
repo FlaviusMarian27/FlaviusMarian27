@@ -8,8 +8,35 @@
 
 ### 💡 About Me
 
-I'm passionate about **digital electronics** and **embedded systems development**.  
-I love exploring new technologies and continuously learning to enhance my skills in both **programming** and **embedded solutions**.
+## 🔍 Technical Deep Dive
+
+My development journey is focused on bridging the gap between high-level software and low-level hardware. Here is a breakdown of my core areas of expertise:
+
+* **💾 Low-Level & Hardware Engineering**
+    Through projects like the **8086 Microprocessor System** and **SystemC ALU Modules**, I've explored computer architecture and hardware description. I specialize in writing efficient code that respects hardware constraints, utilizing **Assembly** and **SystemC** to model complex digital logic.
+
+* **🐧 System Programming**
+    My work in the **Operating Systems** domain reflects a deep dive into how kernels manage resources. I focus on process synchronization, memory management, and multi-threading, primarily developing in **C** within **Linux** environments to build robust system-level applications.
+
+* **🌐 Full-Stack & Web Development**
+    With the **Gym Manager** project, I’ve implemented a complete CRUD system using **Node.js** and **MongoDB**. This project demonstrates my ability to design scalable database schemas and handle asynchronous backend logic while maintaining a clean user interface.
+
+* **🎮 Game Logic & GUI**
+    Developing **Exploding Kittens** (CLI) and **TicTacToe** (SFML) allowed me to refine my **Object-Oriented Programming (OOP)** skills. These projects showcase my ability to implement complex game rules and real-time graphics rendering using **C++**.
+
+---
+
+### 📂 Project Portfolio
+
+| Project Name | Year | Languages & Tech | Repository Link |
+| :--- | :---: | :--- | :--- |
+| **TicTacToe SFML** | 2026 | `C++`, `SFML` | [🔗 View Repo](https://github.com/FlaviusMarian27/TicTacToe) |
+| **8086 Microprocessor System** | 2025 | `Assembly (x86)` | [🔗 View Repo](https://github.com/FlaviusMarian27/Microsistem-cu-microprocesor-8086) |
+| **Gym Manager Web App** | 2025 | `Node.js`, `MongoDB`, `JS` | [🔗 View Repo](https://github.com/FlaviusMarian27/GymManagerWeb) |
+| **SystemC ALU Modules** | 2025 | `C++`, `SystemC` | [🔗 View Repo](https://github.com/FlaviusMarian27/SystemC-ALU-Modules) |
+| **Operating Systems Core** | 2025 | `C` | [🔗 View Repo](https://github.com/FlaviusMarian27/OperatingSystems) |
+| **Exploding Kittens CLI** | 2025 | `C` | [🔗 View Repo](https://github.com/FlaviusMarian27/ExplodingKittens) |
+| **Personal Portfolio** | 2025 | `HTML`, `CSS`, `JS` | [🔗 View Repo](https://github.com/FlaviusMarian27/Flavius-Project) |
 
 ---
 
