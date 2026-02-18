@@ -28,6 +28,7 @@ My development journey is focused on bridging the gap between high-level softwar
 
 | Project Name | Year | Languages & Tech | Repository Link |
 | :--- | :---: | :--- | :--- |
+| **System Monitor** | 2026 | `C`, `Python` | [🔗 View Repo](https://github.com/FlaviusMarian27/System-Monitor) |
 | **TicTacToe SFML** | 2026 | `C++`, `SFML` | [🔗 View Repo](https://github.com/FlaviusMarian27/TicTacToe) |
 | **Exploding Kittens Ncurses** | 2025 | `C` | [🔗 View Repo](https://github.com/FlaviusMarian27/ExplodingKittens) |
 | **8086 Microprocessor System** | 2025 | `Assembly (x86)` | [🔗 View Repo](https://github.com/FlaviusMarian27/Microsistem-cu-microprocesor-8086) |
