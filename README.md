@@ -28,6 +28,7 @@ My development journey is focused on bridging the gap between high-level softwar
 
 | Project Name | Year | Languages & Tech | Repository Link |
 | :--- | :---: | :--- | :--- |
+| **Clarity Gym** | 2026 | `Vue`, `Js`, `Go`, `PostgreSQL` | [🔗 View Repo](https://github.com/FlaviusMarian27/Clarity-Gym) |
 | **System Monitor** | 2026 | `C`, `Python` | [🔗 View Repo](https://github.com/FlaviusMarian27/System-Monitor) |
 | **TicTacToe SFML** | 2026 | `C++`, `SFML` | [🔗 View Repo](https://github.com/FlaviusMarian27/TicTacToe) |
 | **Exploding Kittens Ncurses** | 2025 | `C` | [🔗 View Repo](https://github.com/FlaviusMarian27/ExplodingKittens) |
