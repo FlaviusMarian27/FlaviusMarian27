@@ -71,7 +71,7 @@ I'm currently planning to learn and explore:
 <img src="https://skillicons.dev/icons?i=rust,cs,go" />
 
 ---
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook" />
+<img alt="Top Langs" align="left" width="47%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook" />
 ---
 
 ### 📩 Contact & Socials
