@@ -72,10 +72,7 @@ I'm currently planning to learn and explore:
 
 ---
 
-<div align="center">
-  <img alt="Top Langs" width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook" />
-</div>
-<br>
+<img alt="Top Langs" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook" />
 
 ---
 
