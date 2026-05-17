@@ -53,14 +53,14 @@ My biggest project here is [Clarity Gym](https://github.com/FlaviusMarian27/Clar
 
 ## 🎯 Current Interests & Focus Areas
 
-I am constantly exploring the evolving tech landscape, focusing on the synergy between hardware, low-level software, and connectivity:
+I'm drawn to the space where hardware meets software. Right now that means:
 
-* **🚗 Automotive Systems:** Fascinated by ECU development, real-time operating systems (RTOS), and autonomous driving technologies.
-* **🌐 Networking:** Exploring network protocols, socket programming, and infrastructure security to build reliable distributed systems.
-* **💻 Operating Systems:** Deepening my knowledge of kernel architecture, memory management, and process scheduling (Linux/Unix).
-* **🛡️ Cybersecurity:** Focused on hardware security, secure coding practices, and protecting embedded devices from vulnerabilities.
-* **☁️ Cloud & AI:** Interested in scaling applications and deploying efficient TinyML models on edge hardware.
-* **📱 Web & Mobile:** Building modern, responsive applications that provide seamless user experiences across platforms.
+- 🚗 **Automotive** — ECU development, RTOS, and how modern cars actually run software
+- 🌐 **Networking** — protocols, socket programming, and network security
+- 💻 **Operating Systems** — kernel internals, memory management, process scheduling
+- 🛡️ Cybersecurity** — secure coding for embedded devices, hardware-level vulnerabilities
+- ☁️ **Edge AI** — running small ML models on hardware with real constraints
+- 📱 **Web & Mobile** — building full-stack apps, currently focused on Vue and Go
 
 ---
 
