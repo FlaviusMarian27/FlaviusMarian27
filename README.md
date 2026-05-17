@@ -58,7 +58,7 @@ I'm drawn to the space where hardware meets software. Right now that means:
 - 🚗 **Automotive** — ECU development, RTOS, and how modern cars actually run software
 - 🌐 **Networking** — protocols, socket programming, and network security
 - 💻 **Operating Systems** — kernel internals, memory management, process scheduling
-- 🛡️ Cybersecurity** — secure coding for embedded devices, hardware-level vulnerabilities
+- 🛡️ **Cybersecurity** — secure coding for embedded devices, hardware-level vulnerabilities
 - ☁️ **Edge AI** — running small ML models on hardware with real constraints
 - 📱 **Web & Mobile** — building full-stack apps, currently focused on Vue and Go
 
