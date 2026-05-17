@@ -11,16 +11,16 @@ Third-year student at Faculty of Automation and Computer Engineering at Politehn
 My projects sit somewhere between software and hardware. I like that space because it forces you to understand both sides you can't fake it with abstractions.
 
 **💾 Low-Level & Hardware Engineering**
-    I built an 8086 microprocessor system from scratch and modeled ALU modules in SystemC. Writing Assembly taught me more about how CPUs actually work than any lecture did. SystemC is a different kind of discipline you're describing hardware behavior in C++, which sounds weird until it clicks.
+    - I built an 8086 microprocessor system from scratch and modeled ALU modules in SystemC. Writing Assembly taught me more about how CPUs actually work than any lecture did. SystemC is a different kind of discipline you're describing hardware behavior in C++, which sounds weird until it clicks.
   
 **🐧 System Programming**
-    Most of my OS work is in C on Linux: process synchronization, memory management, multithreading. The kind of code where a off-by-one in a mutex can ruin your whole afternoon.
+    - Most of my OS work is in C on Linux: process synchronization, memory management, multithreading. The kind of code where a off-by-one in a mutex can ruin your whole afternoon.
 
 **🌐 Full-Stack & Web Development**
-    My biggest project here is [Clarity Gym](https://github.com/FlaviusMarian27/Clarity-Gym) a gym management platform built with Vue 3, Go, and PostgreSQL. It has JWT authentication, bcrypt password hashing, and three distinct roles: client, trainer, admin. I also built an earlier version with Node.js and MongoDB ([Gym Manager](https://github.com/FlaviusMarian27/GymManagerWeb)) before switching the stack.
+    - My biggest project here is [Clarity Gym](https://github.com/FlaviusMarian27/Clarity-Gym) a gym management platform built with Vue 3, Go, and PostgreSQL. It has JWT authentication, bcrypt password hashing, and three distinct roles: client, trainer, admin. I also built an earlier version with Node.js and MongoDB ([Gym Manager](https://github.com/FlaviusMarian27/GymManagerWeb)) before switching the stack.
 
 **🎮 Game Logic & GUI**
-    [Exploding Kittens](https://github.com/FlaviusMarian27/ExplodingKittens) over LAN in C with ncurses, and [TicTacToe](https://github.com/FlaviusMarian27/TicTacToe) in C++ with SFML. Game logic is surprisingly good for practicing OOP the rules are concrete and edge cases are obvious.
+    - [Exploding Kittens](https://github.com/FlaviusMarian27/ExplodingKittens) over LAN in C with ncurses, and [TicTacToe](https://github.com/FlaviusMarian27/TicTacToe) in C++ with SFML. Game logic is surprisingly good for practicing OOP the rules are concrete and edge cases are obvious.
 
 ---
 
