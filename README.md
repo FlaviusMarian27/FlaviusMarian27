@@ -71,7 +71,7 @@ I'm currently planning to learn and explore:
 <img src="https://skillicons.dev/icons?i=rust,cs,go" />
 
 ---
-![Top Langs](./top-langs.svg)
+![Top Langs](top-langs.svg)
 ---
 
 ### 📩 Contact & Socials
