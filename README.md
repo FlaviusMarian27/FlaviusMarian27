@@ -74,7 +74,6 @@ I'm currently planning to learn and explore:
 
 <div align="center">
   <img alt="Top Langs" width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook" />
-  <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.shion.dev/api?username=FlaviusMarian27&theme=dark&show_icons=true" />
 </div>
 <br>
 
