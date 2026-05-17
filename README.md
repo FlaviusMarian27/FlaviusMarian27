@@ -5,7 +5,7 @@ Third-year student at Faculty of Automation and Computer Engineering at Politehn
 
 ---
 
-### 🔍 Technical Deep Dive
+## 🔍 Technical Deep Dive
 
 My projects sit somewhere between software and hardware. I like that space because it forces you to understand both sides you can't fake it with abstractions.
 
@@ -23,7 +23,7 @@ My projects sit somewhere between software and hardware. I like that space becau
 
 ---
 
-### 📂 Project Portfolio
+## 📂 Project Portfolio
 
 | Project Name | Year | Languages & Tech | Repository Link |
 | :--- | :---: | :--- | :--- |
@@ -50,7 +50,7 @@ My projects sit somewhere between software and hardware. I like that space becau
 ### ⚙️ Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=linux,git,bash" />
 
-### 🎯 Current Interests & Focus Areas
+## 🎯 Current Interests & Focus Areas
 
 I am constantly exploring the evolving tech landscape, focusing on the synergy between hardware, low-level software, and connectivity:
 
@@ -63,7 +63,7 @@ I am constantly exploring the evolving tech landscape, focusing on the synergy b
 
 ---
 
-### 📘 Future Learning Plan
+## 📘 Future Learning Plan
 
 I'm currently planning to learn and explore:
 
@@ -75,7 +75,7 @@ I'm currently planning to learn and explore:
 
 ---
 
-### 📩 Contact & Socials
+## 📩 Contact & Socials
 
 | Type | Platform | Address |
 | :--- | :--- | :--- |
