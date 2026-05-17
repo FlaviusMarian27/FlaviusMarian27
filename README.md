@@ -1,26 +1,25 @@
 ## 👋 Hi, I'm Flavius 
 
-🎓 Student at Politehnica University of Timișoara  
-🏫 Faculty of Automation and Computer Engineering
+Third-year student at Faculty of Automation and Computer Engineering at Politehnica University of Timișoara.
 ![image](https://github.com/user-attachments/assets/250223ca-75ac-43aa-b272-68c371ebe6ab)
 
 ---
 
 ### 🔍 Technical Deep Dive
 
-My development journey is focused on bridging the gap between high-level software and low-level hardware. Here is a breakdown of my core areas of expertise:
+My projects sit somewhere between software and hardware. I like that space because it forces you to understand both sides you can't fake it with abstractions.
 
-* **💾 Low-Level & Hardware Engineering**
-    Through projects like the **8086 Microprocessor System** and **SystemC ALU Modules**, I've explored computer architecture and hardware description. I specialize in writing efficient code that respects hardware constraints, utilizing **Assembly** and **SystemC** to model complex digital logic.
+**Low-level & hardware**
+I built an 8086 microprocessor system from scratch and modeled ALU modules in SystemC. Writing Assembly taught me more about how CPUs actually work than any lecture did. SystemC is a different kind of discipline you're describing hardware behavior in C++, which sounds weird until it clicks.
 
-* **🐧 System Programming**
-    My work in the **Operating Systems** domain reflects a deep dive into how kernels manage resources. I focus on process synchronization, memory management, and multi-threading, primarily developing in **C** within **Linux** environments to build robust system-level applications.
+**System programming**
+Most of my OS work is in C on Linux: process synchronization, memory management, multithreading. The kind of code where a off-by-one in a mutex can ruin your whole afternoon.
 
-* **🌐 Full-Stack & Web Development**
-    With the **Gym Manager** project, I’ve implemented a complete CRUD system using **Node.js** and **MongoDB**. This project demonstrates my ability to design scalable database schemas and handle asynchronous backend logic while maintaining a clean user interface.
+**Full-stack web**
+My biggest project here is [Clarity Gym](https://github.com/FlaviusMarian27/Clarity-Gym) — a gym management platform built with Vue 3, Go, and PostgreSQL. It has JWT authentication, bcrypt password hashing, and three distinct roles: client, trainer, admin. I also built an earlier version with Node.js and MongoDB ([Gym Manager](https://github.com/FlaviusMarian27/GymManagerWeb)) before switching the stack.
 
-* **🎮 Game Logic & GUI**
-    Developing **Exploding Kittens** (Ncurses) and **TicTacToe** (SFML) allowed me to refine my **Object-Oriented Programming (OOP)** skills. These projects showcase my ability to implement complex game rules and real-time graphics rendering using **C++**.
+**Games**
+[Exploding Kittens](https://github.com/FlaviusMarian27/ExplodingKittens) over LAN in C with ncurses, and [TicTacToe](https://github.com/FlaviusMarian27/TicTacToe) in C++ with SFML. Game logic is surprisingly good for practicing OOP — the rules are concrete and edge cases are obvious.
 
 ---
 
