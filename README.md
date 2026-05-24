@@ -28,7 +28,7 @@ My biggest project here is [Clarity Gym](https://github.com/FlaviusMarian27/Clar
 
 | Project Name | Year | Languages & Tech | Repository Link |
 | :--- | :---: | :--- | :--- |
-| **Network Simulation** | 2026 | `Cisco Tool` | [🔗 View Repo](https://github.com/FlaviusMarian27/Clarity-Gym](https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation)) |
+| **Network Simulation** | 2026 | `Cisco Tool` | [🔗 View Repo](https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation.git) |
 | **Clarity Gym** | 2026 | `Vue`, `Js`, `Go`, `PostgreSQL` | [🔗 View Repo](https://github.com/FlaviusMarian27/Clarity-Gym) |
 | **System Monitor** | 2026 | `C`, `Python` | [🔗 View Repo](https://github.com/FlaviusMarian27/System-Monitor) |
 | **TicTacToe SFML** | 2026 | `C++`, `SFML` | [🔗 View Repo](https://github.com/FlaviusMarian27/TicTacToe) |
