@@ -28,6 +28,7 @@ My biggest project here is [Clarity Gym](https://github.com/FlaviusMarian27/Clar
 
 | Project Name | Year | Languages & Tech | Repository Link |
 | :--- | :---: | :--- | :--- |
+| **MP3/MP4 converter for Windows** | 2026 | `Python`, `PySide6` | [🔗 View Repo](https://github.com/FlaviusMarian27/MP3-MP4-Windows) | 
 | **MP3/MP4 converter for Linux** | 2026 | `Python`, `PySide6` | [🔗 View Repo](https://github.com/FlaviusMarian27/MP3_converter.git) | 
 | **Network Simulation** | 2026 | `Cisco Tool` | [🔗 View Repo](https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation.git) |
 | **Clarity Gym** | 2026 | `Vue`, `Js`, `Go`, `PostgreSQL` | [🔗 View Repo](https://github.com/FlaviusMarian27/Clarity-Gym) |
