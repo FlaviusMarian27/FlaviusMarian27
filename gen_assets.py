@@ -5,6 +5,8 @@ Edit the DATA section below, re-run, commit the assets/ folder.
 """
 import os
 import textwrap
+import sys
+import scenes
 from xml.sax.saxutils import escape as esc
 
 os.makedirs("assets/projects", exist_ok=True)
@@ -115,40 +117,15 @@ def link(pid, d, color, dur, delay=0, dashed=False):
 
 
 # ───────────────────────── 1. header ─────────────────────────
-def header():
+def header(only=None, out="assets/header.svg"):
     W, H = 1000, 500
-    o = [svg_open(W, H), frame(W, H)]
+    o = [svg_open(W, H, scenes.css(len(scenes.SCENES))), frame(W, H)]
     for i, c in enumerate([RED, YEL, GREEN]):
         o.append(f'<circle cx="{34 + i*20}" cy="34" r="6" fill="{c}"/>')
     o.append(f'<text x="{W/2}" y="39" text-anchor="middle" class="d" font-size="14">ssh flavius@R1-UPT — console 115200</text>')
     o.append(f'<line x1="22" y1="56" x2="{W-22}" y2="56" stroke="{DIM}" stroke-opacity=".35"/>')
 
-    # topology panel
-    bx, by, bw, bh = 30, 74, 350, 400
-    o.append(f'<rect x="{bx}" y="{by}" width="{bw}" height="{bh}" rx="12" fill="{BG}" stroke="url(#g)" stroke-opacity=".6"/>')
-    # grid dots
-    o.append('<g fill="#1f2335">' + "".join(
-        f'<circle cx="{x}" cy="{y}" r="1"/>' for x in range(bx + 15, bx + bw, 20) for y in range(by + 15, by + bh, 20)) + "</g>")
-    cx = bx + bw / 2
-    ci, r1, s1, s2 = (cx, by + 52), (cx, by + 140), (cx - 85, by + 235), (cx + 85, by + 235)
-    hosts = [(s1[0] - 45, by + 330, "PC-A"), (s1[0] + 35, by + 330, "PC-B"),
-             (s2[0] - 35, by + 330, "SRV"), (s2[0] + 45, by + 330, "PC-C")]
-    o.append(link("l0", f"M{ci[0]} {ci[1]+12} L{r1[0]} {r1[1]-16}", PINK, 2.4, dashed=True))
-    o.append(link("l1", f"M{r1[0]-18} {r1[1]+12} L{s1[0]} {s1[1]-12}", CYAN, 2.8, .3))
-    o.append(link("l2", f"M{r1[0]+18} {r1[1]+12} L{s2[0]} {s2[1]-12}", CYAN, 3.1, .9))
-    o.append(link("l7", f"M{s1[0]+34} {s1[1]} L{s2[0]-34} {s2[1]}", YEL, 3.6, .5, dashed=True))
-    for i, (hx, hy, _) in enumerate(hosts):
-        sw = s1 if i < 2 else s2
-        o.append(link(f"h{i}", f"M{sw[0]} {sw[1]+12} L{hx} {hy-14}", BLUE, 2 + i*.35, i*.4))
-    o.append(cloud(*ci))
-    o.append(router(*r1, "R1 · OSPF"))
-    o.append(switch(*s1, "SW1 · VLAN 10"))
-    o.append(switch(*s2, "SW2 · VLAN 20"))
-    for hx, hy, lab in hosts:
-        o.append(host(hx, hy, lab, GREEN if lab == "SRV" else PINK))
-    o.append(f'<text x="{bx + 14}" y="{by + 22}" font-size="11" class="d">gns3://thesis-lab</text>')
-    o.append(f'<text x="{cx}" y="{by + bh - 16}" text-anchor="middle" class="d" font-size="12">'
-             f'10.27.0.0/16 · 4 hosts · 3 links up</text>')
+    o.extend(scenes.build(30, 74, only))
 
     # IOS-style info
     x0, y0, lh, fs, COLS = 410, 94, 22.2, 15, 52
@@ -190,7 +167,7 @@ def header():
         o.append(f'<rect x="{W - 250 + i*28}" y="{H - 42}" width="20" height="12" rx="2" fill="{col}" '
                  f'class="led" style="animation-delay:{i*.18:.2f}s"/>')
     o.append(f'<text x="{W - 250}" y="{H - 50}" font-size="10" class="d">Gi0/1 ─────────────── Gi0/8</text>')
-    save("assets/header.svg", o)
+    save(out, o)
 
 
 # ───────────────────────── 2. section titles ─────────────────────────
@@ -345,6 +322,10 @@ def focus():
 
 
 if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == "preview":
+        for i in range(len(scenes.SCENES)):
+            header(i, f"{sys.argv[2]}/scene{i}.svg")
+        sys.exit()
     header()
     for n, cmd, t in [("deepdive", "show tech-support", "Technical Deep Dive"),
                       ("projects", "show interfaces status", "Project Portfolio"),

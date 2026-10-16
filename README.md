@@ -82,6 +82,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-11141f?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/flavius-andrei-marian/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-11141f?style=for-the-badge&logo=githubpages&logoColor=9ECE6A)](https://flaviusmarian27.github.io/Flavius-Project/)
 
-<img src="https://komarev.com/ghpvc/?username=FlaviusMarian27&color=7dcfff&style=flat-square&label=packets+received" />
-
 </div>
