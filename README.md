@@ -1,79 +1,60 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Flavius-Andrei Marian — neofetch" width="100%" />
+<img src="./assets/header.svg" width="100%" alt="R1-UPT# show version — Flavius-Andrei Marian" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+UPT;Networking+%C2%B7+Systems+%C2%B7+Full-Stack;Where+hardware+meets+software" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🔍 Technical Deep Dive
-
-My projects sit somewhere between software and hardware. I like that space because it forces you to understand both sides — you can't fake it with abstractions.
-
-**💾 Low-Level & Hardware** — Built an 8086 microprocessor system from scratch and modeled ALU modules in SystemC. Writing Assembly taught me more about how CPUs actually work than any lecture did.
-
-**🐧 System Programming** — OS work in C on Linux: process synchronization, memory management, multithreading. The kind of code where an off-by-one in a mutex ruins your whole afternoon.
-
-**🌐 Networking** — Enterprise network simulations in Cisco Packet Tracer, now automating GNS3 topologies with Python for my thesis.
-
-**🧩 Full-Stack** — [Clarity Gym](https://github.com/FlaviusMarian27/Clarity-Gym): Vue 3 + Go + PostgreSQL, JWT auth, bcrypt, three roles (client / trainer / admin). Rewrote it from an earlier [Node.js + MongoDB version](https://github.com/FlaviusMarian27/GymManagerWeb).
-
-**🎮 Games & GUI** — [Exploding Kittens](https://github.com/FlaviusMarian27/ExplodingKittens) over LAN in C with ncurses, [TicTacToe](https://github.com/FlaviusMarian27/TicTacToe) in C++ with SFML.
-
----
-
-## 📂 Project Portfolio
-
-| Project | Year | Tech | Repo |
-| :--- | :---: | :--- | :---: |
-| **Clarity Gym** | 2026 | `Vue` `Go` `PostgreSQL` | [🔗](https://github.com/FlaviusMarian27/Clarity-Gym) |
-| **System Monitor** | 2026 | `C` `Python` | [🔗](https://github.com/FlaviusMarian27/System-Monitor) |
-| **Enterprise Network Simulation** | 2026 | `Cisco Packet Tracer` | [🔗](https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation) |
-| **MP3/MP4 Converter (Windows)** | 2026 | `Python` `PySide6` | [🔗](https://github.com/FlaviusMarian27/MP3-MP4-Windows) |
-| **MP3/MP4 Converter (Linux)** | 2026 | `Python` `PySide6` | [🔗](https://github.com/FlaviusMarian27/MP3_converter) |
-| **TicTacToe SFML** | 2026 | `C++` `SFML` | [🔗](https://github.com/FlaviusMarian27/TicTacToe) |
-| **Exploding Kittens (LAN)** | 2025 | `C` `ncurses` | [🔗](https://github.com/FlaviusMarian27/ExplodingKittens) |
-| **8086 Microprocessor System** | 2025 | `x86 Assembly` | [🔗](https://github.com/FlaviusMarian27/Microsistem-cu-microprocesor-8086) |
-| **SystemC ALU Modules** | 2025 | `C++` `SystemC` | [🔗](https://github.com/FlaviusMarian27/SystemC-ALU-Modules) |
-| **Operating Systems Core** | 2025 | `C` | [🔗](https://github.com/FlaviusMarian27/OperatingSystems) |
-| **Gym Manager Web App** | 2025 | `Node.js` `MongoDB` | [🔗](https://github.com/FlaviusMarian27/GymManagerWeb) |
-| **Personal Portfolio** | 2025 | `HTML` `CSS` `JS` | [🔗](https://github.com/FlaviusMarian27/Flavius-Project) |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,go,java,js,html,css&theme=dark" />
-<img src="https://img.shields.io/badge/Assembly-x86-2EAD33?style=for-the-badge" height="48" />
-
-**Frameworks & Databases**<br>
-<img src="https://skillicons.dev/icons?i=vue,nodejs,postgres,mysql,mongodb&theme=dark" />
-
-**Tools**<br>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
-
-**Next up**<br>
-<img src="https://skillicons.dev/icons?i=rust,cs,docker&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&lines=Network+automation+%C2%B7+GNS3+%2B+Python;Routing+%C2%B7+Switching+%C2%B7+Cisco+IOS;Software+Engineering+%40+UPT+%C2%B7+Year+4" alt="typing" />
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<img src="./assets/section-deepdive.svg" width="100%" alt="Technical Deep Dive" />
+
+<img src="./assets/deepdive.svg" width="100%" alt="Networking, System Programming, Low-Level, Full-Stack" />
+
+<br/>
+
+<img src="./assets/section-projects.svg" width="100%" alt="Project Portfolio" />
+
+<a href="https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation"><img src="./assets/projects/network-sim.svg" width="100%" alt="Enterprise Network Simulation" /></a>
+<a href="https://github.com/FlaviusMarian27/ExplodingKittens"><img src="./assets/projects/exploding-kittens.svg" width="100%" alt="Exploding Kittens LAN" /></a>
+<a href="https://github.com/FlaviusMarian27/System-Monitor"><img src="./assets/projects/system-monitor.svg" width="100%" alt="System Monitor" /></a>
+<a href="https://github.com/FlaviusMarian27/OperatingSystems"><img src="./assets/projects/os-core.svg" width="100%" alt="Operating Systems Core" /></a>
+<a href="https://github.com/FlaviusMarian27/Clarity-Gym"><img src="./assets/projects/clarity-gym.svg" width="100%" alt="Clarity Gym" /></a>
+<a href="https://github.com/FlaviusMarian27/GymManagerWeb"><img src="./assets/projects/gym-manager.svg" width="100%" alt="Gym Manager Web App" /></a>
+<a href="https://github.com/FlaviusMarian27/Microsistem-cu-microprocesor-8086"><img src="./assets/projects/8086.svg" width="100%" alt="8086 Microprocessor System" /></a>
+<a href="https://github.com/FlaviusMarian27/SystemC-ALU-Modules"><img src="./assets/projects/systemc-alu.svg" width="100%" alt="SystemC ALU Modules" /></a>
+<a href="https://github.com/FlaviusMarian27/MP3-MP4-Windows"><img src="./assets/projects/mp3-windows.svg" width="100%" alt="MP3/MP4 Converter Windows" /></a>
+<a href="https://github.com/FlaviusMarian27/MP3_converter"><img src="./assets/projects/mp3-linux.svg" width="100%" alt="MP3/MP4 Converter Linux" /></a>
+<a href="https://github.com/FlaviusMarian27/TicTacToe"><img src="./assets/projects/tictactoe.svg" width="100%" alt="TicTacToe SFML" /></a>
+<a href="https://github.com/FlaviusMarian27/Flavius-Project"><img src="./assets/projects/portfolio.svg" width="100%" alt="Personal Portfolio" /></a>
+
+<br/>
+
+<img src="./assets/section-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=FlaviusMarian27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
+<img src="https://img.shields.io/badge/Cisco_IOS-11141f?style=for-the-badge&logo=cisco&logoColor=7DCFFF" />
+<img src="https://img.shields.io/badge/GNS3-11141f?style=for-the-badge&logoColor=7DCFFF" />
+<img src="https://img.shields.io/badge/Packet_Tracer-11141f?style=for-the-badge&logo=cisco&logoColor=7DCFFF" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,js,vue,postgres,mongodb,linux,bash,git&theme=dark&perline=12" />
+
+</div>
+
+<br/>
+
+<img src="./assets/section-stats.svg" width="100%" alt="GitHub Stats" />
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=FlaviusMarian27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11141f&count_private=true&include_all_commits=true&hide=stars,issues" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=tokyonight&hide_border=true&bg_color=11141f&langs_count=8&hide=jupyter%20notebook" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=FlaviusMarian27&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=FlaviusMarian27&theme=tokyonight&hide_border=true&background=11141f" />
 
 <br/><br/>
 
@@ -84,27 +65,23 @@ My projects sit somewhere between software and hardware. I like that space becau
 
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
+<img src="./assets/section-focus.svg" width="100%" alt="Current Focus" />
 
-- 🌐 **Networking** — routing, switching, network automation with Python
-- 💻 **Operating Systems** — kernel internals, memory management, scheduling
-- 🛡️ **Cybersecurity** — secure coding, hardware-level vulnerabilities
-- 🚗 **Automotive** — ECUs, RTOS, how modern cars run software
-- ☁️ **Edge AI** — small ML models on constrained hardware
+<img src="./assets/focus.svg" width="100%" alt="Networking, Operating Systems, Cybersecurity, Automotive, Edge AI" />
 
----
+<br/>
 
-## 📩 Contact
+<img src="./assets/section-contact.svg" width="100%" alt="Contact" />
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/UPT_Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7)](mailto:flavius.marian@student.upt.ro)
-[![Email](https://img.shields.io/badge/Personal_Email-1a1b27?style=for-the-badge&logo=yahoo&logoColor=BB9AF7)](mailto:marianflavius27@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/flavius-andrei-marian/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=githubpages&logoColor=9ECE6A)](https://flaviusmarian27.github.io/Flavius-Project/)
+[![UPT](https://img.shields.io/badge/flavius.marian@student.upt.ro-11141f?style=for-the-badge&logo=maildotru&logoColor=7DCFFF)](mailto:flavius.marian@student.upt.ro)
+[![Mail](https://img.shields.io/badge/marianflavius27@yahoo.com-11141f?style=for-the-badge&logo=yahoo&logoColor=BB9AF7)](mailto:marianflavius27@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-11141f?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/flavius-andrei-marian/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-11141f?style=for-the-badge&logo=githubpages&logoColor=9ECE6A)](https://flaviusmarian27.github.io/Flavius-Project/)
 
-<img src="https://komarev.com/ghpvc/?username=FlaviusMarian27&color=7aa2f7&style=flat-square&label=Profile+views" />
+<img src="https://komarev.com/ghpvc/?username=FlaviusMarian27&color=7dcfff&style=flat-square&label=packets+received" />
 
 </div>

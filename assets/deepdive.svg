@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/>
+  </linearGradient>
+  <linearGradient id="gh" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/>
+  </linearGradient>
+  <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    text { font-family: Consolas,'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace; }
+    .k { fill: #7dcfff; } .v { fill: #c0caf5; } .d { fill: #565f89; } .p { fill: #bb9af7; }
+    .gr { fill: #9ece6a; } .y { fill: #e0af68; } .b { fill: #7aa2f7; }
+    .bold { font-weight: 700; }
+    .cur { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .led { animation: led 1.6s ease-in-out infinite; }
+    @keyframes led { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    
+  </style>
+</defs>
+
+<rect width="1000" height="420" rx="20" fill="#0b0e17"/>
+<rect x="6" y="6" width="988" height="408" rx="16" fill="#11141f" stroke="url(#g)" stroke-width="2" filter="url(#glow)"/>
+
+<rect x="20" y="20" width="470" height="186" rx="12" fill="#0b0e17" stroke="#7dcfff" stroke-opacity=".5"/>
+<rect x="20" y="38" width="4" height="30" rx="2" fill="#7dcfff"/>
+<circle cx="466" cy="53" r="5" fill="#9ece6a" class="led"/>
+<text x="454" y="57" text-anchor="end" font-size="11" class="d">Gi0/1 up/up</text>
+<text x="42" y="60" font-size="19" fill="#7dcfff" class="bold">Networking</text>
+<text x="42" y="100" font-size="14.5" class="v">Enterprise topologies in Cisco Packet Tracer</text>
+<text x="42" y="124" font-size="14.5" class="v">and GNS3: VLANs, routing, addressing plans. My</text>
+<text x="42" y="148" font-size="14.5" class="v">thesis automates GNS3 labs with Python, so</text>
+<text x="42" y="172" font-size="14.5" class="v">configs are generated and tested instead of</text>
+<text x="42" y="196" font-size="14.5" class="v">typed by hand.</text>
+<rect x="510" y="20" width="470" height="186" rx="12" fill="#0b0e17" stroke="#7aa2f7" stroke-opacity=".5"/>
+<rect x="510" y="38" width="4" height="30" rx="2" fill="#7aa2f7"/>
+<circle cx="956" cy="53" r="5" fill="#9ece6a" class="led"/>
+<text x="944" y="57" text-anchor="end" font-size="11" class="d">Gi0/2 up/up</text>
+<text x="532" y="60" font-size="19" fill="#7aa2f7" class="bold">System Programming</text>
+<text x="532" y="100" font-size="14.5" class="v">OS work in C on Linux: process synchronization,</text>
+<text x="532" y="124" font-size="14.5" class="v">memory management, multithreading. The kind of</text>
+<text x="532" y="148" font-size="14.5" class="v">code where an off-by-one in a mutex ruins your</text>
+<text x="532" y="172" font-size="14.5" class="v">whole afternoon.</text>
+<rect x="20" y="226" width="470" height="186" rx="12" fill="#0b0e17" stroke="#bb9af7" stroke-opacity=".5"/>
+<rect x="20" y="244" width="4" height="30" rx="2" fill="#bb9af7"/>
+<circle cx="466" cy="259" r="5" fill="#9ece6a" class="led"/>
+<text x="454" y="263" text-anchor="end" font-size="11" class="d">Gi0/3 up/up</text>
+<text x="42" y="266" font-size="19" fill="#bb9af7" class="bold">Low-Level &amp; Hardware</text>
+<text x="42" y="306" font-size="14.5" class="v">An 8086 microprocessor system built from</text>
+<text x="42" y="330" font-size="14.5" class="v">scratch in x86 Assembly and ALU modules modeled</text>
+<text x="42" y="354" font-size="14.5" class="v">in SystemC. Writing Assembly taught me more</text>
+<text x="42" y="378" font-size="14.5" class="v">about CPUs than any lecture.</text>
+<rect x="510" y="226" width="470" height="186" rx="12" fill="#0b0e17" stroke="#9ece6a" stroke-opacity=".5"/>
+<rect x="510" y="244" width="4" height="30" rx="2" fill="#9ece6a"/>
+<circle cx="956" cy="259" r="5" fill="#9ece6a" class="led"/>
+<text x="944" y="263" text-anchor="end" font-size="11" class="d">Gi0/4 up/up</text>
+<text x="532" y="266" font-size="19" fill="#9ece6a" class="bold">Full-Stack</text>
+<text x="532" y="306" font-size="14.5" class="v">Clarity Gym: Vue 3 + Go + PostgreSQL with JWT</text>
+<text x="532" y="330" font-size="14.5" class="v">auth, bcrypt and three roles. Rewritten from an</text>
+<text x="532" y="354" font-size="14.5" class="v">earlier Node.js + MongoDB version once I</text>
+<text x="532" y="378" font-size="14.5" class="v">outgrew the stack.</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/>
+  </linearGradient>
+  <linearGradient id="gh" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/>
+  </linearGradient>
+  <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    text { font-family: Consolas,'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace; }
+    .k { fill: #7dcfff; } .v { fill: #c0caf5; } .d { fill: #565f89; } .p { fill: #bb9af7; }
+    .gr { fill: #9ece6a; } .y { fill: #e0af68; } .b { fill: #7aa2f7; }
+    .bold { font-weight: 700; }
+    .cur { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .led { animation: led 1.6s ease-in-out infinite; }
+    @keyframes led { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    
+  </style>
+</defs>
+
+<rect x="1" y="1" width="998" height="62" rx="12" fill="#11141f" stroke="url(#gh)" stroke-opacity=".7"/>
+<text x="22" y="40" font-size="20"><tspan class="p bold">R1-UPT</tspan><tspan class="d">#</tspan><tspan class="v"> show inventory</tspan></text>
+<text x="976" y="40" font-size="18" text-anchor="end" class="k bold">Tech Stack</text>
+<path id="s_stack" d="M306 33 L848 33" stroke="#7aa2f7" stroke-opacity=".55" stroke-width="1.6" fill="none" stroke-dasharray="4 4"/>
+<circle r="3.5" fill="#7aa2f7" filter="url(#glow)">
+  <animateMotion dur="4s" begin="0s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;.5;1" calcMode="linear">
+    <mpath href="#s_stack"/>
+  </animateMotion>
+</circle>
+</svg>
