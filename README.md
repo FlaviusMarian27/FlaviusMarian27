@@ -85,9 +85,15 @@ My projects sit somewhere between software and hardware. I like that space becau
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=FlaviusMarian27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
 
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=FlaviusMarian27&theme=tokyonight&hide_border=true" />
 
+<br/><br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FlaviusMarian27&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlaviusMarian27/FlaviusMarian27/output/github-snake-dark.svg" />
@@ -95,7 +101,6 @@ My projects sit somewhere between software and hardware. I like that space becau
 </picture>
 
 </div>
-
 ---
 
 ## 🎯 Current Focus
