@@ -1,24 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Flavius+%F0%9F%91%8B;Software+Engineering+%40+UPT;Networking+%C2%B7+Systems+%C2%B7+Full-Stack;Where+hardware+meets+software" alt="Typing SVG" />
+<img src="./assets/header.svg" alt="Flavius-Andrei Marian — neofetch" width="100%" />
 
-<img src="https://github.com/user-attachments/assets/250223ca-75ac-43aa-b272-68c371ebe6ab" width="420" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Engineering+%40+UPT;Networking+%C2%B7+Systems+%C2%B7+Full-Stack;Where+hardware+meets+software" alt="Typing SVG" />
 
 </div>
-
-```bash
-flavius@upt:~$ neofetch
- ─────────────────────────────────────────────────────────
-  User ......... Flavius-Andrei Marian
-  Uni .......... Politehnica University of Timișoara (AC)
-  Program ...... Software Engineering · Year 4
-  Location ..... Timișoara, Romania
-  Thesis ....... Networking — GNS3 + Python automation
-  Focus ........ Networking · Operating Systems · Full-Stack
-  Langs ........ C, C++, Python, Go, Java, JavaScript, x86 ASM
-  Learning ..... Cisco NetAcad (CCNA ITN) · Linux Essentials
- ─────────────────────────────────────────────────────────
-```
 
 ---
 
@@ -82,16 +68,12 @@ My projects sit somewhere between software and hardware. I like that space becau
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=FlaviusMarian27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=FlaviusMarian27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=stars,issues" />
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=FlaviusMarian27&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FlaviusMarian27&theme=tokyo-night&hide_border=true&area=true" />
 
 <br/><br/>
 
@@ -101,6 +83,7 @@ My projects sit somewhere between software and hardware. I like that space becau
 </picture>
 
 </div>
+
 ---
 
 ## 🎯 Current Focus
