@@ -31,8 +31,8 @@
 <line x1="55" y1="44" x2="55" y2="52" stroke="#bb9af7" stroke-width="1.4"/>
 <line x1="62" y1="44" x2="62" y2="52" stroke="#bb9af7" stroke-width="1.4"/>
 <line x1="69" y1="44" x2="69" y2="52" stroke="#bb9af7" stroke-width="1.4"/>
-<circle cx="34" cy="30" r="3.5" fill="#9ece6a" class="led" style="animation-delay:0.91s"/>
-<text x="58" y="88" text-anchor="middle" font-size="11" fill="#bb9af7">Gi0/8</text>
+<circle cx="34" cy="30" r="3.5" fill="#9ece6a" class="led" style="animation-delay:1.17s"/>
+<text x="58" y="88" text-anchor="middle" font-size="11" fill="#bb9af7">Gi0/10</text>
 <text x="122" y="44" font-size="20" class="v bold">SystemC ALU Modules</text>
 <text x="122" y="70" font-size="13.5" fill="#a9b1d6">ALU hardware modules described and simulated in SystemC.</text>
 <rect x="122.0" y="80" width="39.6" height="22" rx="11" fill="#bb9af7" fill-opacity=".12" stroke="#bb9af7" stroke-opacity=".55"/><text x="141.8" y="95" text-anchor="middle" font-size="12" fill="#bb9af7">C++</text>

@@ -17,6 +17,8 @@
 <img src="./assets/section-projects.svg" width="100%" alt="Project Portfolio" />
 
 <a href="https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation"><img src="./assets/projects/network-sim.svg" width="100%" alt="Enterprise Network Simulation" /></a>
+<a href="https://github.com/FlaviusMarian27/Laundry-booking"><img src="./assets/projects/laundry-booking.svg" width="100%" alt="Laundry Booking" /></a>
+<a href="https://github.com/FlaviusMarian27/Revelo"><img src="./assets/projects/revelo.svg" width="100%" alt="Revelo" /></a>
 <a href="https://github.com/FlaviusMarian27/ExplodingKittens"><img src="./assets/projects/exploding-kittens.svg" width="100%" alt="Exploding Kittens LAN" /></a>
 <a href="https://github.com/FlaviusMarian27/System-Monitor"><img src="./assets/projects/system-monitor.svg" width="100%" alt="System Monitor" /></a>
 <a href="https://github.com/FlaviusMarian27/OperatingSystems"><img src="./assets/projects/os-core.svg" width="100%" alt="Operating Systems Core" /></a>

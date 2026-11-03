@@ -225,6 +225,12 @@ PROJECTS = [
     ("network-sim", "Enterprise Network Simulation", "Cisco-Enterprise-Network-Simulation", 2026, "NETWORKING",
      "Enterprise network topology designed and simulated in Cisco Packet Tracer.",
      ["Cisco IOS", "Packet Tracer"]),
+    ("laundry-booking", "Laundry Booking · Event-Driven", "Laundry-booking", 2026, "DISTRIBUTED",
+     "Dorm laundry booking: Kafka microservices + AI agent that proposes maintenance via MCP.",
+     ["Java", "Spring Boot", "Kafka", "Docker", "PostgreSQL", "Python", "MCP"]),
+    ("revelo", "Revelo", "Revelo", 2026, "MOBILE",
+     "AI walking guide that plans and adapts your route in any city.",
+     ["TypeScript", "Mobile", "AI"]),
     ("exploding-kittens", "Exploding Kittens · LAN", "ExplodingKittens", 2025, "NETWORKING",
      "Multiplayer card game played over LAN, terminal UI built with ncurses.",
      ["C", "Sockets", "ncurses"]),
@@ -259,7 +265,7 @@ PROJECTS = [
      "Personal website hosted on GitHub Pages.",
      ["HTML", "CSS", "JavaScript"]),
 ]
-CAT_COLOR = {"NETWORKING": CYAN, "SYSTEMS": BLUE, "FULL-STACK": GREEN, "LOW-LEVEL": PINK, "APPS": YEL, "WEB": YEL}
+CAT_COLOR = {"NETWORKING": CYAN, "DISTRIBUTED": BLUE, "MOBILE": PINK, "SYSTEMS": BLUE, "FULL-STACK": GREEN, "LOW-LEVEL": PINK, "APPS": YEL, "WEB": YEL}
 
 
 def project_card(idx, p):
