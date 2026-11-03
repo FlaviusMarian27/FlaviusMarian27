@@ -147,7 +147,7 @@ def header(only=None, out="assets/header.svg"):
     kv("thesis", "Network automation · GNS3 + Python")
     kv("focus", "Routing · Switching · Automation")
     kv("stack.net", "Cisco IOS · GNS3 · Packet Tracer")
-    kv("stack.code", "Python · C · Go · Java")
+    kv("stack.code", "Python · C · Java · Go · TS")
     kv("training", "Cisco NetAcad CCNA · Linux Ess.")
     L.append("")
     hd("show cdp neighbors")
@@ -190,15 +190,17 @@ DEEP = [
     ("Gi0/1", "Networking", CYAN,
      "Enterprise topologies in Cisco Packet Tracer and GNS3: VLANs, routing, addressing plans. "
      "My thesis automates GNS3 labs with Python, so configs are generated and tested instead of typed by hand."),
-    ("Gi0/2", "System Programming", BLUE,
-     "OS work in C on Linux: process synchronization, memory management, multithreading. "
-     "The kind of code where an off-by-one in a mutex ruins your whole afternoon."),
+    ("Gi0/2", "Concurrency & Systems", BLUE,
+     "OS work in C on Linux: synchronization, memory, multithreading. "
+     "Now scaling it out: Laundry Booking runs Spring Boot microservices over Kafka, "
+     "with an AI agent talking to them through MCP."),
     ("Gi0/3", "Low-Level & Hardware", PINK,
      "An 8086 microprocessor system built from scratch in x86 Assembly and ALU modules modeled in SystemC. "
      "Writing Assembly taught me more about CPUs than any lecture."),
-    ("Gi0/4", "Full-Stack", GREEN,
-     "Clarity Gym: Vue 3 + Go + PostgreSQL with JWT auth, bcrypt and three roles. "
-     "Rewritten from an earlier Node.js + MongoDB version once I outgrew the stack."),
+    ("Gi0/4", "Full-Stack & Mobile", GREEN,
+     "Clarity Gym: Vue 3 + Go + PostgreSQL with JWT auth and three roles. "
+     "Revelo: a TypeScript mobile app, an AI walking guide that plans "
+     "and adapts your route in any city."),
 ]
 
 
@@ -313,9 +315,11 @@ def project_card(idx, p):
 FOCUS = [
     ("C", "10.0.1.0/24", "Networking", "routing, switching, automation with Python", CYAN),
     ("C", "10.0.2.0/24", "Operating Systems", "kernel internals, memory, scheduling", BLUE),
-    ("O", "10.0.3.0/24", "Cybersecurity", "network security, secure coding", PINK),
-    ("O", "10.0.4.0/24", "Automotive", "ECUs, RTOS, in-vehicle networks", YEL),
-    ("S", "10.0.5.0/24", "Edge AI", "small ML models on constrained hardware", GREEN),
+    ("C", "10.0.3.0/24", "Distributed", "Kafka, microservices, AI agents via MCP", GREEN),
+    ("O", "10.0.4.0/24", "Mobile", "AI-powered mobile apps", PINK),
+    ("O", "10.0.5.0/24", "Cybersecurity", "network security, secure coding", PINK),
+    ("O", "10.0.6.0/24", "Automotive", "ECUs, RTOS, in-vehicle networks", YEL),
+    ("S", "10.0.7.0/24", "Edge AI", "small ML models on constrained hardware", CYAN),
 ]
 
 

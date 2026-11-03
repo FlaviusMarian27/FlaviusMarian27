@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="R1-UPT# show version — Flavius-Andrei Marian" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&lines=Network+automation+%C2%B7+GNS3+%2B+Python;Routing+%C2%B7+Switching+%C2%B7+Cisco+IOS;Software+Engineering+%40+UPT+%C2%B7+Year+4" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&lines=Network+automation+%C2%B7+GNS3+%2B+Python;Event-driven+microservices+%C2%B7+Kafka;Routing+%C2%B7+Switching+%C2%B7+Cisco+IOS;Software+Engineering+%40+UPT+%C2%B7+Year+4" alt="typing" />
 
 </div>
 
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/GNS3-11141f?style=for-the-badge&logoColor=7DCFFF" />
 <img src="https://img.shields.io/badge/Packet_Tracer-11141f?style=for-the-badge&logo=cisco&logoColor=7DCFFF" />
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,js,vue,postgres,mongodb,linux,bash,git&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,ts,js,vue,react,spring,postgres,mongodb,kafka,docker,linux,bash,git&theme=dark&perline=9" />
 
 </div>
 

@@ -194,7 +194,7 @@ def s_fullstack():
     # JWT token
     o.append(f'<g><rect x="262" y="194" width="44" height="18" rx="9" fill="{PINK}" fill-opacity=".15" stroke="{PINK}"/>'
              f'<text x="284" y="207" text-anchor="middle" font-size="10" fill="{PINK}">JWT</text>{blink(0, 1.4)}</g>')
-    return o, "FULL-STACK", GREEN, "Vue 3 · Go · PostgreSQL"
+    return o, "FULL-STACK", GREEN, "Vue · Go · Spring Boot · Kafka"
 
 
 def s_hardware():
@@ -280,8 +280,8 @@ def s_mobile():
     o.append(wire("M232 160 L300 160 L300 250", CYAN, 2.2, dash="3 4"))
     o.append(box(270, 252, 60, 26, CYAN, "REST", 11))
     o.append(path("M118 200 L60 200 L60 250", GREEN, 1.4, .5, "3 4"))
-    o.append(box(30, 252, 60, 26, GREEN, "SQLite", 10))
-    return o, "MOBILE", PINK, "mobile app design · REST APIs"
+    o.append(box(30, 252, 60, 26, GREEN, "AI API", 10))
+    return o, "MOBILE", PINK, "Revelo · AI walking guide"
 
 
 SCENES = [s_network, s_cyber, s_automotive, s_fullstack, s_hardware, s_cloud, s_mobile]
