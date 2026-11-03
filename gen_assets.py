@@ -341,7 +341,7 @@ if __name__ == "__main__":
                       ("contact", "show cdp neighbors detail", "Contact")]:
         section(n, cmd, t)
     deepdive()
-    for i, p in enumerate(PROJECTS):
+    for i, p in enumerate(sorted(PROJECTS, key=lambda p: -p[3])):
         project_card(i, p)
     focus()
     print("assets generated")
