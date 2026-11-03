@@ -265,6 +265,16 @@ PROJECTS = [
      "Personal website hosted on GitHub Pages.",
      ["HTML", "CSS", "JavaScript"]),
 ]
+# display order, top to bottom (slugs from PROJECTS)
+ORDER = ["revelo", "laundry-booking", "network-sim", "mp3-windows", "mp3-linux", "clarity-gym",
+         "system-monitor", "tictactoe", "exploding-kittens", "8086", "gym-manager", "os-core",
+         "systemc-alu", "portfolio"]
+
+
+def ordered():
+    return sorted(PROJECTS, key=lambda p: ORDER.index(p[0]))
+
+
 CAT_COLOR = {"NETWORKING": CYAN, "DISTRIBUTED": BLUE, "MOBILE": PINK, "SYSTEMS": BLUE, "FULL-STACK": GREEN, "LOW-LEVEL": PINK, "APPS": YEL, "WEB": YEL}
 
 
@@ -341,7 +351,7 @@ if __name__ == "__main__":
                       ("contact", "show cdp neighbors detail", "Contact")]:
         section(n, cmd, t)
     deepdive()
-    for i, p in enumerate(sorted(PROJECTS, key=lambda p: -p[3])):
+    for i, p in enumerate(ordered()):
         project_card(i, p)
     focus()
     print("assets generated")

@@ -16,18 +16,18 @@
 
 <img src="./assets/section-projects.svg" width="100%" alt="Project Portfolio" />
 
-<a href="https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation"><img src="./assets/projects/network-sim.svg" width="100%" alt="Enterprise Network Simulation" /></a>
-<a href="https://github.com/FlaviusMarian27/Laundry-booking"><img src="./assets/projects/laundry-booking.svg" width="100%" alt="Laundry Booking · Event-Driven" /></a>
 <a href="https://github.com/FlaviusMarian27/Revelo"><img src="./assets/projects/revelo.svg" width="100%" alt="Revelo" /></a>
-<a href="https://github.com/FlaviusMarian27/System-Monitor"><img src="./assets/projects/system-monitor.svg" width="100%" alt="System Monitor" /></a>
-<a href="https://github.com/FlaviusMarian27/Clarity-Gym"><img src="./assets/projects/clarity-gym.svg" width="100%" alt="Clarity Gym" /></a>
+<a href="https://github.com/FlaviusMarian27/Laundry-booking"><img src="./assets/projects/laundry-booking.svg" width="100%" alt="Laundry Booking · Event-Driven" /></a>
+<a href="https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation"><img src="./assets/projects/network-sim.svg" width="100%" alt="Enterprise Network Simulation" /></a>
 <a href="https://github.com/FlaviusMarian27/MP3-MP4-Windows"><img src="./assets/projects/mp3-windows.svg" width="100%" alt="MP3/MP4 Converter · Windows" /></a>
 <a href="https://github.com/FlaviusMarian27/MP3_converter"><img src="./assets/projects/mp3-linux.svg" width="100%" alt="MP3/MP4 Converter · Linux" /></a>
+<a href="https://github.com/FlaviusMarian27/Clarity-Gym"><img src="./assets/projects/clarity-gym.svg" width="100%" alt="Clarity Gym" /></a>
+<a href="https://github.com/FlaviusMarian27/System-Monitor"><img src="./assets/projects/system-monitor.svg" width="100%" alt="System Monitor" /></a>
 <a href="https://github.com/FlaviusMarian27/TicTacToe"><img src="./assets/projects/tictactoe.svg" width="100%" alt="TicTacToe SFML" /></a>
 <a href="https://github.com/FlaviusMarian27/ExplodingKittens"><img src="./assets/projects/exploding-kittens.svg" width="100%" alt="Exploding Kittens · LAN" /></a>
-<a href="https://github.com/FlaviusMarian27/OperatingSystems"><img src="./assets/projects/os-core.svg" width="100%" alt="Operating Systems Core" /></a>
-<a href="https://github.com/FlaviusMarian27/GymManagerWeb"><img src="./assets/projects/gym-manager.svg" width="100%" alt="Gym Manager Web App" /></a>
 <a href="https://github.com/FlaviusMarian27/Microsistem-cu-microprocesor-8086"><img src="./assets/projects/8086.svg" width="100%" alt="8086 Microprocessor System" /></a>
+<a href="https://github.com/FlaviusMarian27/GymManagerWeb"><img src="./assets/projects/gym-manager.svg" width="100%" alt="Gym Manager Web App" /></a>
+<a href="https://github.com/FlaviusMarian27/OperatingSystems"><img src="./assets/projects/os-core.svg" width="100%" alt="Operating Systems Core" /></a>
 <a href="https://github.com/FlaviusMarian27/SystemC-ALU-Modules"><img src="./assets/projects/systemc-alu.svg" width="100%" alt="SystemC ALU Modules" /></a>
 <a href="https://github.com/FlaviusMarian27/Flavius-Project"><img src="./assets/projects/portfolio.svg" width="100%" alt="Personal Portfolio" /></a>
 
