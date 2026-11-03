@@ -35,15 +35,17 @@
 
 <img src="./assets/section-stack.svg" width="100%" alt="Tech Stack" />
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_IOS-11141f?style=for-the-badge&logo=cisco&logoColor=7DCFFF" />
+  <img src="https://img.shields.io/badge/GNS3-11141f?style=for-the-badge&logoColor=7DCFFF" />
+  <img src="https://img.shields.io/badge/Packet_Tracer-11141f?style=for-the-badge&logo=cisco&logoColor=7DCFFF" />
+</p>
 
-<img src="https://img.shields.io/badge/Cisco_IOS-11141f?style=for-the-badge&logo=cisco&logoColor=7DCFFF" />
-<img src="https://img.shields.io/badge/GNS3-11141f?style=for-the-badge&logoColor=7DCFFF" />
-<img src="https://img.shields.io/badge/Packet_Tracer-11141f?style=for-the-badge&logo=cisco&logoColor=7DCFFF" />
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,ts,js,vue,react,spring,postgres,mongodb,kafka,docker,linux,bash,git&theme=dark&perline=9" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,ts,js,vue,react&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,kafka,docker,linux,bash,git&theme=dark" />
+</p>
 
 <br/>
 
@@ -52,7 +54,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=FlaviusMarian27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11141f&count_private=true&include_all_commits=true&hide=stars,issues" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=tokyonight&hide_border=true&bg_color=11141f&langs_count=8&hide=jupyter%20notebook" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FlaviusMarian27&layout=compact&theme=tokyonight&hide_border=true&bg_color=11141f&langs_count=8&hide=jupyter%20notebook,qml,sip" />
 
 <br/><br/>
 
