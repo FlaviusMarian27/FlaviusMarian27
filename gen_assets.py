@@ -199,7 +199,7 @@ DEEP = [
      "Writing Assembly taught me more about CPUs than any lecture."),
     ("Gi0/4", "Full-Stack & Mobile", GREEN,
      "Clarity Gym: Vue 3 + Go + PostgreSQL with JWT auth and three roles. "
-     "Revelo: a TypeScript mobile app, an AI walking guide that plans "
+     "Rovelo: a TypeScript mobile app, an AI walking guide that plans "
      "and adapts your route in any city."),
 ]
 
@@ -230,7 +230,7 @@ PROJECTS = [
     ("laundry-booking", "Laundry Booking · Event-Driven", "Laundry-booking", 2026, "DISTRIBUTED",
      "Dorm laundry booking: Kafka microservices + AI agent that proposes maintenance via MCP.",
      ["Java", "Spring Boot", "Kafka", "Docker", "PostgreSQL", "Python", "MCP"]),
-    ("revelo", "Revelo", "Revelo", 2026, "MOBILE",
+    ("revelo", "Rovelo", "Revelo", 2026, "MOBILE",
      "AI walking guide that plans and adapts your route in any city.",
      ["TypeScript", "Mobile", "AI"]),
     ("exploding-kittens", "Exploding Kittens · LAN", "ExplodingKittens", 2025, "NETWORKING",

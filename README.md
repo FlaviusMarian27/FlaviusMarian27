@@ -16,7 +16,7 @@
 
 <img src="./assets/section-projects.svg" width="100%" alt="Project Portfolio" />
 
-<a href="https://github.com/FlaviusMarian27/Revelo"><img src="./assets/projects/revelo.svg" width="100%" alt="Revelo" /></a>
+<a href="https://github.com/FlaviusMarian27/Revelo"><img src="./assets/projects/revelo.svg" width="100%" alt="Rovelo" /></a>
 <a href="https://github.com/FlaviusMarian27/Laundry-booking"><img src="./assets/projects/laundry-booking.svg" width="100%" alt="Laundry Booking · Event-Driven" /></a>
 <a href="https://github.com/FlaviusMarian27/Cisco-Enterprise-Network-Simulation"><img src="./assets/projects/network-sim.svg" width="100%" alt="Enterprise Network Simulation" /></a>
 <a href="https://github.com/FlaviusMarian27/MP3-MP4-Windows"><img src="./assets/projects/mp3-windows.svg" width="100%" alt="MP3/MP4 Converter · Windows" /></a>

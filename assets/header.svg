@@ -352,7 +352,7 @@
 <rect x="270" y="252" width="60" height="26" rx="5" fill="#161a29" stroke="#7dcfff" stroke-width="1.5"/><text x="300.0" y="269.0" text-anchor="middle" font-size="11" fill="#7dcfff">REST</text>
 <path d="M118 200 L60 200 L60 250" stroke="#9ece6a" stroke-opacity="0.5" stroke-width="1.4" fill="none" stroke-dasharray="3 4"/>
 <rect x="30" y="252" width="60" height="26" rx="5" fill="#161a29" stroke="#9ece6a" stroke-width="1.5"/><text x="60.0" y="268.6" text-anchor="middle" font-size="10" fill="#9ece6a">AI API</text>
-<text x="175.0" y="352" text-anchor="middle" font-size="12" fill="#c0caf5">Revelo · AI walking guide</text>
+<text x="175.0" y="352" text-anchor="middle" font-size="12" fill="#c0caf5">Rovelo · AI walking guide</text>
 <rect x="290.9" y="372" width="39.1" height="5" rx="2.5" fill="#bb9af7" filter="url(#glow)"/>
 </g>
 </g>
